@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "name": "Agenda",
+  "description": "Aplicacion para crear listas de tareas a relizar",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/img/icons/logo60.png",
+    "128": "/img/icons/logo128.png"
+  },
+  "developer": {
+    "name": "Alejandro Sotelo"
+   },
+  "installs_allowed_from": ["*"],
+  "default_locale": "es"
+}
