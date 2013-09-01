@@ -3,22 +3,15 @@
 // http://requirejs.org/docs/api.html#define
 
 define(function(require) {
-    // Receipt verification (https://github.com/mozilla/receiptverifier)
-    require('receiptverifier');
-
-    // Installation button
-    require('./install-button');
+   
 
     // Install the layouts
     require('layouts/layouts');
 
-    // Write your app here.
-
-
+    
     // List view
     var list = $('.list').get(0);
   
-
     // Detail view
     var detail = $('.detail').get(0);
     detail.render = function(item) {

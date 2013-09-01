@@ -5,7 +5,6 @@ css/install-button.css
 
 css/app.css
 ----------------
-css/install-button.css
 css/../js/lib/layouts/css/layouts.css
 css/fonts.css
 css/app.css
@@ -20,9 +19,6 @@ js/lib/layouts/css/layouts.css
 
 js/lib/../app.js
 ----------------
-js/lib/receiptverifier.js
-js/lib/install.js
-js/lib/../install-button.js
 js/lib/zepto.js
 js/lib/x-tag.js
 js/lib/underscore.js
